@@ -9,8 +9,8 @@ This is a simple and elegant spinner loader designed for use on websites. It off
 - Just some lines of HTML and CSS
 
 ## Quick View - 
-<img src="demo_img.webp" style="width: 80px; border: 1px solid black">
+<img src="demo_img.webp" style="width: 80px;">
 
 ## Live Example
-To see the spinner loader in action, <a href="#" target="_blank">Click here</a>
+To see the spinner loader in action, <a href="https://ziauddin128.github.io/spinner_loader/" target="_blank">Click here</a>
 
